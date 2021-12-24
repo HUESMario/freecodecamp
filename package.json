@@ -1,5 +1,6 @@
 {
 	"author": "Mario Happle",
+	"version": "0.0.1",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
